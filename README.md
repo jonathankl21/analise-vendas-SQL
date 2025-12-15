@@ -1,7 +1,6 @@
-# analise-vendas-SQL
 Projeto de estudo na prática em mySQL
 
-# Título do Projeto (ex: Análise de Vendas SQL)
+# Título do Projeto Análise de Vendas SQL
 
 ## 📌 Sobre o Projeto
 "Sistema de banco de dados relacional para gerenciar vendas e extrair relatórios de KPIs de faturamento."
